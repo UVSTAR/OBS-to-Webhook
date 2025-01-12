@@ -49,9 +49,6 @@ This script automatically sends the latest video file from a specified folder to
 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request.
 
 ## Contact
 
