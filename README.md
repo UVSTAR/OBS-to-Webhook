@@ -62,5 +62,4 @@ For any questions or suggestions, please open an issue on GitHub.
 ### requirements.txt
 
 ```plaintext
-obspython
 requests
