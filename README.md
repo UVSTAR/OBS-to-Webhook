@@ -19,7 +19,7 @@ This script automatically sends the latest video file from a specified folder to
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/yourusername/OBS2Webhook.git
+    git clone https://github.com/UVSTAR/OBS2Webhook.git
     cd OBS2Webhook
     ```
 
