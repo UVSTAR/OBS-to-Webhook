@@ -11,7 +11,7 @@ This script automatically sends the latest video file from a specified folder to
 
 ## Requirements
 
-- Python 3.10 or higher
+- Python 3.10 or higher(WON'T WORK ON PYTHON VERSION NOT SUPPORTED BY OBS)
 - OBS Studio
 
 ## Installation
